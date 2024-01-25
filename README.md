@@ -1,3 +1,3 @@
-TicTacToe Spiel in Python. 
+#TicTacToe Spiel in Python. 
 
 Gespielt wird über die Konsole.
